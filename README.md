@@ -2,7 +2,7 @@
 
 ZenFocus is a minimal, browser-based landing page designed to keep you centered and productive throughout the day. It dynamically changes its theme based on the time of day and remembers your name and goals even after you refresh the browser.
 
-[🚀 View Live Demo]([YOUR_GITHUB_PAGES_LINK_HERE](https://ahmadrayan-create.github.io/minimal-focus-dashboard/))
+[🚀 View Live Demo](https://ahmadrayan-create.github.io/minimal-focus-dashboard/)
 
 ## ✨ Key Features
 - **Time-Aware Greeting:** Automatically shifts between Morning, Afternoon, and Evening themes.
